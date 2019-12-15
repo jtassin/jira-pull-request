@@ -1,0 +1,10 @@
+{
+    "name": "jira-pull-request",
+    "version": 2,
+    "builds": [
+        {
+            "src": "lib/*.js",
+            "use": "@now/node"
+        }
+    ]
+}
