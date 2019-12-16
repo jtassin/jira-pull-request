@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Probot app creates a pull request when a jira branch is created 1`] = `
+Object {
+  "base": "master",
+  "body": "**Type:** Feature/Bug/Chore/Tooling/Release/Hotfix
+
+## User story
+
+- <https://keplr.atlassian.net/browse/BO-1234>
+        ",
+  "head": "BO-1234",
+  "title": "[FRONT] Modal addresse : utiliser le nouveau composant modal",
+}
+`;
