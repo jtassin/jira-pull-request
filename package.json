@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.0",
-    "probot": "^9.5.3"
+    "probot": "11.4.1"
   },
   "devDependencies": {
     "@types/jest": "^24.0.19",
