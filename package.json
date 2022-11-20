@@ -31,7 +31,7 @@
     "@types/node": "^12.11.1",
     "@types/node-fetch": "^2.5.4",
     "@typescript-eslint/parser": "^2.4.0",
-    "delay": "^4.3.0",
+    "delay": "^5.0.0",
     "eslint-plugin-typescript": "^0.14.0",
     "jest": "^24.9.0",
     "nock": "^11.4.0",
